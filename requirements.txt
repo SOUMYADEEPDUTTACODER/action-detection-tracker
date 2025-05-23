@@ -1,0 +1,7 @@
+ultralytics==8.0.20
+opencv-python
+deep_sort_realtime
+matplotlib
+numpy
+pandas
+motmetrics
